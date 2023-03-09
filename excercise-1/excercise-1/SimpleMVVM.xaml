@@ -1,0 +1,36 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:excercise_1"
+             x:Class="excercise_1.SimpleMVVM"
+             Title="Simple MVVM - Clock Page">
+    <ContentPage.BindingContext>
+        <local:ClockViewModel />
+    </ContentPage.BindingContext>
+
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        VerticalOptions="Center">
+    
+        <Label Text="{Binding DateTime, StringFormat='Time is {0:T}'}"
+               FontSize="24"
+               HorizontalOptions="Center" />
+
+        <Label Text="{Binding DateTime, StringFormat='Today is {0:dddd}'}"
+               FontSize="24"
+               HorizontalOptions="Center"/>
+
+        <Label Text="{Binding DateTime, StringFormat='This month is {0:MMMM}'}"
+               FontSize="24"
+               HorizontalOptions="Center"/>
+    
+        <Label Text="{Binding DateTime, StringFormat='The year is {0:yyyy}'}"
+               FontSize="24"
+               HorizontalOptions="Center"/>
+
+        <Label Text="And my name is Muhammad Fatih Akbar - 5025201117"
+               FontSize="24"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = excercise_1
+build_property.ProjectDir = D:\test\frameworkprog-assignment-4\excercise-1\excercise-1\
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/Comanding.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.Comanding.xaml
+build_metadata.AdditionalFiles.TargetPath = Comanding.xaml
+build_metadata.AdditionalFiles.RelativePath = Comanding.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/InteractiveMVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.InteractiveMVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = InteractiveMVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = InteractiveMVVM.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/test/frameworkprog-assignment-4/excercise-1/excercise-1/SimpleMVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = excercise_1.SimpleMVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = SimpleMVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = SimpleMVVM.xaml
